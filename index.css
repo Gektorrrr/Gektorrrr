@@ -1,0 +1,19 @@
+#title{
+	width:99%;
+	 background:#ccf;
+	 text-align:center; 
+	 height:10%;
+}
+#menu{
+	width:15%;
+	height: 2120px;
+	 background:#00FA9A;
+	 display: inline-block;
+	}
+#gold{background: #7FFFD4;
+		float:right;
+		width:84%;
+		display: inline-block;
+		text-align:center; 
+	}
+	 
