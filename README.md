@@ -1,2 +1,0 @@
-# Gektorrrr.github.io
-Шалом
