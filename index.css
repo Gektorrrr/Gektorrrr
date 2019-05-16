@@ -12,7 +12,7 @@
 	 display: inline-block;
 	 float: left
 	}
-#gold{background-image: url(https://svekrovi.net/wp-content/uploads/2017/09/aquarium3.jpg);
+#gold{background:#87CEFA;
 		float:right;
 		width:80%;
 		display: inline-block;
